@@ -1,9 +1,13 @@
 _repo: The-Pilgrim-of-Castile-or-El-Pelegrino-in-Su-Patria_49847
+_version: 0.1.0
 contributor:
   translator:
     agent_name: William, Dutton
     gutenberg_agent_id: '45572'
     url: http://www.gutenberg.org/2009/agents/45572
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vega, Lope de
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25752
     wikipedia: http://es.wikipedia.org/wiki/Lope_de_Vega
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49847#The-Pilgrim-of-Castile-or-El-Pelegrino-in-Su-Patria
 gutenberg_issued: '2015-09-01'
 gutenberg_type: Text
 identifiers:
